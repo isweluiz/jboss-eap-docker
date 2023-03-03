@@ -1,3 +1,4 @@
 *.war
 jboss-eap-6*
-.DS_Store
+.DS_*
+DS*
